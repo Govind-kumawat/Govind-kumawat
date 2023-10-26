@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1g4KwFHwUfTn-10V7OBaAH0PjbKOgLBCH/view?usp=drive_link)
+<img alt="coding" src="https://drive.google.com/file/d/1g4KwFHwUfTn-10V7OBaAH0PjbKOgLBCH/view?usp=drive_link">
 <h1 align="center">Hi 👋, THERE I'm Govind.</h1>
 <h3 align="center">A Software developer from India</h3>
 

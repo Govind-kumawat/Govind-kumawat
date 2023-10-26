@@ -1,4 +1,4 @@
-![logo]([https://github.com/Govind-kumawat/Govind-kumawat/commit/f79f47cb1bbf209068ad8b7d492742626c19b54c#diff-54ae6cef02a90cff9a309b938c32525e4aabde3c9051fe1d413e0cba5d02526f](https://drive.google.com/file/d/1g4KwFHwUfTn-10V7OBaAH0PjbKOgLBCH/view?usp=drive_link))
+![logo](https://drive.google.com/file/d/1g4KwFHwUfTn-10V7OBaAH0PjbKOgLBCH/view?usp=drive_link))
 <h1 align="center">Hi 👋, THERE I'm Govind.</h1>
 <h3 align="center">A Software developer from India</h3>
 
